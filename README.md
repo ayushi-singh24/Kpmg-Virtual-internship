@@ -1,0 +1,2 @@
+# Kpmg-Virtual-internship
+Sprocket Central Pty Ltd which specializes in high-quality bikes and accessible cycling accessories to riders. To boost business we need to understand the customer trends and behavior so that we can focus on customers which are  more likely to purchase .Understanding customer trends and behavior , finding important customers thus optimizing marketing budget and using it efficiently.
